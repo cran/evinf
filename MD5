@@ -1,12 +1,12 @@
-75d8f2fc743efc206272975ad5296dad *DESCRIPTION
+1c138c83b8cd9d58eb9f8c4dec040d25 *DESCRIPTION
 7e0b3491c115448e5b70cc0fbfebac48 *LICENSE
-54996650b52d7041753b06c732d9ec70 *NAMESPACE
+05eb9e3b76a3ea007ef7eedba6924672 *NAMESPACE
 3556f290da29f97e950ca4c7614987f3 *NEWS.md
 8ffa8e2a94c95813212ada38fed7b05e *R/RcppExports.R
 0fbbc2cf1a1a010ebc757caa112e0a5f *R/a019.R
 083fc2ce568e9119b16643484faf996f *R/coef_extractor.R
 1837ac0a343e9d94dcbeb7195cf16949 *R/evinb.R
-5d224d672a9f02817828ae479fd32af9 *R/evinf-package.R
+45e88beec7ead945b5809d3195843f26 *R/evinf-package.R
 5c13f5bb91e69660de21b9890abac661 *R/evzinb.R
 e173e87e0609e361a1e15be573a52a99 *R/extra_distributions.R
 3f62b91200ab654572543121c355c7ad *R/genevzinb.R
@@ -15,7 +15,7 @@ fb3940c313dc209b15834cf1e6590743 *R/glance_boots.R
 55289c10d8208d4e4cbcf498ba75cab1 *R/glance_evzinb.R
 90cd7c218bd4ac1b967da4512f36f85a *R/gm_evzinb.R
 a629f54fc476725ce00beecd97e1f63b *R/hks.R
-1a0a212df97cca9912e26a5726b6a382 *R/lr_tests.R
+8a3e8a8ade593135459442985f2c81f7 *R/lr_tests.R
 7f1318c3b69399fdf7b909979b2046e7 *R/mixture_quantile_extractor.R
 0827a746c1c545f0f123cb7895dd28ee *R/oob_evaluation.R
 a50eba59b1258088d5d41c76a12a5c32 *R/predict_evzinb.R
@@ -24,9 +24,9 @@ d692724b1b78d73ef62229ef02006f6e *R/print_evzinb.R
 45b8cca97b461cb341d615e21e16f828 *R/summary_evzinb.R
 551b315de87b07f14a771739ba1dbfbf *R/tidy_boots.R
 b958c1f10ac8d22b79d320e29c52fbb5 *R/tidy_evzinb.R
-041b9d20af20fc2fd3f2879491ea12c1 *R/zinb_comparison.R
+000d43c82dd4936074cf5c265d980f33 *R/zinb_comparison.R
 d5d294fa3c84391896d351cc5c578497 *README.md
-c8eff8fec3589ad72d22e7f88ad0a27d *build/partial.rdb
+925b785e79c2ae029b1949aeb8420c3e *build/partial.rdb
 fb22d9797b55152073bfee94f5aebaab *data/genevzinb.rda
 0befb42ca5015ba9caab812c5818377a *data/genevzinb2.rda
 ef292c4d6ad361485bc003bd8ea06f93 *data/gm_evzinb.rda
@@ -50,7 +50,7 @@ bbfb614320f688e253f9dc32ab3edf50 *man/glance.evinb.Rd
 ac77597ed0187ae0045bfc5259cbcefa *man/glance.zinbboot.Rd
 18279f580898a613e16fcb802a2ade6d *man/gm_evzinb.Rd
 cbc9b03e3638b3da9549e935925a81de *man/hks.Rd
-a7450cb74de5cebbceb1b7d444c8cb65 *man/lr_test_evzinb.Rd
+a6a02dec2161cca3d3173e5cca0adf76 *man/lr_test.Rd
 35daf08e9314bd92815a8c65fe348bdc *man/oob_evaluation.Rd
 3d4f6b3b89205021cde3ee74629e6dbd *man/predict.evinb.Rd
 955b0f64bcfe9fe1bfab4bf87ea9a909 *man/predict.evzinb.Rd
