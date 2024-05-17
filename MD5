@@ -1,4 +1,4 @@
-fa5b57a25b9148660ef955be3224b364 *DESCRIPTION
+a62e98343ac7b8704893793c10ffc337 *DESCRIPTION
 7e0b3491c115448e5b70cc0fbfebac48 *LICENSE
 05eb9e3b76a3ea007ef7eedba6924672 *NAMESPACE
 3556f290da29f97e950ca4c7614987f3 *NEWS.md
@@ -26,7 +26,7 @@ d692724b1b78d73ef62229ef02006f6e *R/print_evzinb.R
 b958c1f10ac8d22b79d320e29c52fbb5 *R/tidy_evzinb.R
 171d92091f899cfbc15e41c52bd721d3 *R/zinb_comparison.R
 d5d294fa3c84391896d351cc5c578497 *README.md
-fa5b8d5495312805c0fd26129217283a *build/partial.rdb
+e824f018100f16e88221d099b7f85efe *build/partial.rdb
 fb22d9797b55152073bfee94f5aebaab *data/genevzinb.rda
 0befb42ca5015ba9caab812c5818377a *data/genevzinb2.rda
 ef292c4d6ad361485bc003bd8ea06f93 *data/gm_evzinb.rda
